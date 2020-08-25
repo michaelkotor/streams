@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "New",
+      "description": "Some",
+      "userId": "103842736609284191416",
+      "id": 1
+    },
+    {
+      "title": "old one",
+      "description": "sfdfdff",
+      "userId": "103842736609284191416",
+      "id": 2
+    }
+  ]
+}
